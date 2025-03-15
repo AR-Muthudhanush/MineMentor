@@ -24,9 +24,9 @@ Tech Stack
 💡 Database: MySQL (for query logging and knowledge management)
 
 ## Screenshots  
-![MineMentor UI - Screenshot 1](https://drive.google.com/uc?export=view&id=1gtM25zgxb-99ELrocjoxPZprERS9IkWe)  
-![MineMentor UI - Screenshot 2](https://drive.google.com/uc?export=view&id=1rd-Utc6Ih59cCd7HSIhAKlRVdUv8fQWk)  
-![MineMentor UI - Screenshot 3](https://drive.google.com/uc?export=view&id=1K8w2eXWGnjn1mR_kEHyiG7RhCIxrKpG0)  
+<img src="https://drive.google.com/uc?export=view&id=1gtM25zgxb-99ELrocjoxPZprERS9IkWe" width="500">  
+<img src="https://drive.google.com/uc?export=view&id=1rd-Utc6Ih59cCd7HSIhAKlRVdUv8fQWk" width="500">  
+<img src="https://drive.google.com/uc?export=view&id=1K8w2eXWGnjn1mR_kEHyiG7RhCIxrKpG0" width="500">  
 
 ## Video Demo  
 🎥 **Watch the Demo:** [Click Here](https://drive.google.com/file/d/1Z7EX9ydh6KqDulH-16-VsC1v-t2kRUbP/view?usp=drive_link)  
