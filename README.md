@@ -24,7 +24,9 @@ Tech Stack
 💡 Database: MySQL (for query logging and knowledge management)
 
 ## Screenshots  
-![MineMentor UI]([assets/chatbot_ui.png](https://drive.google.com/file/d/1gtM25zgxb-99ELrocjoxPZprERS9IkWe/view?usp=sharing))([assets/chatbot_ui.png](https://drive.google.com/file/d/1rd-Utc6Ih59cCd7HSIhAKlRVdUv8fQWk/view?usp=sharing))([assets/chatbot_ui.png](https://drive.google.com/file/d/1K8w2eXWGnjn1mR_kEHyiG7RhCIxrKpG0/view?usp=sharing))  
+![MineMentor UI - Screenshot 1](https://drive.google.com/uc?export=view&id=1gtM25zgxb-99ELrocjoxPZprERS9IkWe)  
+![MineMentor UI - Screenshot 2](https://drive.google.com/uc?export=view&id=1rd-Utc6Ih59cCd7HSIhAKlRVdUv8fQWk)  
+![MineMentor UI - Screenshot 3](https://drive.google.com/uc?export=view&id=1K8w2eXWGnjn1mR_kEHyiG7RhCIxrKpG0)  
 
 ## Video Demo  
-[![Watch Demo]([https://www.youtube.com/watch?v=abcd1234](https://drive.google.com/file/d/1Z7EX9ydh6KqDulH-16-VsC1v-t2kRUbP/view?usp=drive_link))  
+🎥 **Watch the Demo:** [Click Here](https://drive.google.com/file/d/1Z7EX9ydh6KqDulH-16-VsC1v-t2kRUbP/view?usp=drive_link)  
