@@ -1,27 +1,27 @@
-MineMentor - Mining Regulatory Chatbot
-🚀 AI-powered chatbot for mining industry regulations
+# MineMentor - Mining Regulatory Chatbot  
+🚀 AI-powered chatbot for mining industry regulations  
 
-Overview
-The Mining Regulatory Chatbot (MRC) simplifies access to mining regulations using AI and NLP. Built with Gemini AI in the backend and a Flutter-based frontend, it provides accurate, industry-specific legal insights on environmental compliance, safety standards, and licensing.
+## Overview  
+The **Mining Regulatory Chatbot (MRC)** simplifies access to mining regulations using **AI and NLP**. Built with **Gemini AI** in the backend and a **Flutter-based frontend**, it provides **accurate, industry-specific legal insights** on **environmental compliance, safety standards, and licensing**.  
 
-MRC ensures mining professionals, policymakers, and industry stakeholders can easily navigate complex legal frameworks, reducing compliance risks and improving decision-making.
+MRC ensures **mining professionals, policymakers, and industry stakeholders** can easily navigate complex legal frameworks, reducing compliance risks and improving decision-making.  
 
-How It Works
-🔹 Users enter queries related to mining regulations.
-🔹 The chatbot, powered by Gemini AI, processes the input using NLP.
-🔹 It fetches relevant laws, safety guidelines, and compliance details from a structured knowledge base.
-🔹 Users receive instant, accurate responses in a conversational format.
+## How It Works  
+🔹 Users enter queries related to mining regulations.  
+🔹 The chatbot, powered by **Gemini AI**, processes the input using **NLP**.  
+🔹 It fetches relevant laws, safety guidelines, and compliance details from a **structured knowledge base**.  
+🔹 Users receive **instant, accurate responses** in a conversational format.  
 
-Use Case
-✅ Mining Companies – Ensure compliance with environmental and safety regulations.
-✅ Government Agencies – Provide legal clarity on mining policies.
-✅ Lawyers & Consultants – Quickly access mining laws and case references.
-✅ Workers & Engineers – Get safety guidelines and operational protocols.
+## Use Case  
+✅ **Mining Companies** – Ensure compliance with environmental and safety regulations.  
+✅ **Government Agencies** – Provide legal clarity on mining policies.  
+✅ **Lawyers & Consultants** – Quickly access mining laws and case references.  
+✅ **Workers & Engineers** – Get safety guidelines and operational protocols.  
 
-Tech Stack
-💡 Frontend: Flutter (for a cross-platform experience)
-💡 Backend: Python (FastAPI) + Gemini AI
-💡 Database: MySQL (for query logging and knowledge management)
+## Tech Stack  
+💡 **Frontend:** Flutter (for a cross-platform experience)  
+💡 **Backend:** Python (FastAPI) + Gemini AI  
+💡 **Database:** MySQL (for query logging and knowledge management)  
 
 ## Screenshots  
 <table>
